@@ -15,7 +15,7 @@ Java, Bash, Python, Go
 
 ---
 
-![sparkleGoat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparkleGoat&count_private=true&show_icons=true&theme=synthwave)
+![sparkleGoat's GitHub stats](https://github-readme-stats.vercel.app/api?username=sparkleGoat&count_private=true&show_icons=true&theme=synthwave&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sparkleGoat&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
