@@ -1,6 +1,6 @@
 ### Hi there, 👋 my name is Mary Rogers aka SparkleGoat.
 
-## I am a Wife, Mother, and DevOps Engineer!
+## I am a Wife, Mother, and Software/DevOps Engineer!
 
 - 🔭 I’m currently working on the Certified Kubernetes Administrator Certification!
 - 🌱 I’m currently learning everything 😄!
